@@ -32,7 +32,8 @@ title = "Hugo Serif Theme"
     base = "Source Sans Pro"
 
   [params.colors]
-    primary = "#f24088"
+    # primary = "#f24088"
+    primary = "#154c79"
     black = "#2f2f41"
     white = "#ffffff"
     white_offset = "#f6f7ff"
@@ -55,14 +56,14 @@ title = "Hugo Serif Theme"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
+    name = "Trajectory"
     url = "/services/"
     weight = 1
 
-  [[menu.main]]
-    name = "Team"
-    url = "/team/"
-    weight = 2
+  # [[menu.main]]
+  #   name = "Team"
+  #   url = "/team/"
+  #   weight = 2
 
   [[menu.main]]
     name = "About"

@@ -3,7 +3,10 @@ title: 'About'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
+
+A website that tracks a personal investment knowledge improvements.
+
+<!-- Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
@@ -47,4 +50,4 @@ Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
 iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
 et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
 somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+tamen lentis spectat, Titania est animo. -->

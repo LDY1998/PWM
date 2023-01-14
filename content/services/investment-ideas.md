@@ -1,12 +1,14 @@
 ---
-title: "Business Advisory"
+title: "Investment Ideas"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 draft: false
 weight: 2
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
+Finding a good investment opportunities
+
+<!-- Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
 ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
 ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
 quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
@@ -58,4 +60,4 @@ habenas, ne dici Canenti.
 4. Linguae pendent
 
 Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas? -->

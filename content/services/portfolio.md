@@ -1,24 +1,26 @@
 ---
-title: "Accounting"
+title: "Portfolio"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+<!-- Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business. -->
+
+Demonstrate Portfolio Performance
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives 
+<!-- # Objectives 
 
 Financial accounting and financial reporting are often used as synonyms.
 
 1. According to International Financial Reporting Standards: the objective of financial reporting is:
 2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+3. According to the European Accounting Association: -->
 
-## Relevance
+<!-- ## Relevance
 
 Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
 
@@ -79,4 +81,4 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
         - international
 - goodwill
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. -->

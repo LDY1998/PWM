@@ -1,12 +1,14 @@
 ---
-title: "Business Sales"
+title: "Industry Research"
 date: 2018-11-28T15:15:26+10:00
 featured: true
 draft: false
 weight: 3
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
+Knowing what you are invested in
+
+<!-- Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
 vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
 nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
 cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
@@ -47,4 +49,4 @@ iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
 Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
 Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
 ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+motibus; opem baculum. -->
